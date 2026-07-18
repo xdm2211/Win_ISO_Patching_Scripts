@@ -28,4 +28,8 @@
 		<hash type="sha-1">5efe4d5e657d2518ce3e8e84a6a1237d13d733c1</hash>
 		<url>https://catalog.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/f2d5681d-49f3-45ea-a250-5b2e07a22cf4/public/windows11.0-kb5106056-arm64_5efe4d5e657d2518ce3e8e84a6a1237d13d733c1.cab</url>
 	</file>
+	<file name="windows11.0-kb5121767-arm64_02d5b695f5a7f4ae544b43d2bf03e46ce0535743.msu">
+		<hash type="sha-1">02d5b695f5a7f4ae544b43d2bf03e46ce0535743</hash>
+		<url>https://catalog.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/ac5c24b5-30ba-488a-869b-4632bf250093/public/windows11.0-kb5121767-arm64_02d5b695f5a7f4ae544b43d2bf03e46ce0535743.msu</url>
+	</file>
 </metalink>
