@@ -11,7 +11,7 @@
 
 ###### Supported Windows Versions:
 
-|Name|Internal Version (Last Updated: October 13, 2026)|
+|Name|Internal Version (Last Updated: October 14, 2026)|
 |---|---|
 |**Windows 10 Enterprise LTSB 2016, Windows Server 2016**|**Build 14393.9612**|
 |**Windows 10 Enterprise LTSC 2019, Windows Server 2019**|**Build 17763.9376 (2024-6, Arm Version EOL)**|
