@@ -11,17 +11,17 @@
 
 ###### 支持的 Windows 版本：
 
-|名称|内部版本（最后更新：2026年10月14日）|
+|名称|内部版本（最后更新：2026年10月26日）|
 |---|---|
-|**Windows 10 企业版 LTSB 2016、Windows Server 2016**|**Build 14393.9612**|
-|**Windows 10 企业版 LTSC 2019、Windows Server 2019**|**Build 17763.9376（2024-6，Arm 版本生命终止）**|
-|**Windows 10 22H2、Windows 10 企业版 LTSC 2021**|**Build 1904x.7807**|
-|**Windows Server 2022**|**Build 20348.5761**|
-|**Windows 11 23H2**|**Build 22631.7584**|
-|**Windows Server 2025**|**Build 26100.33650**|
-|**Windows 11 25H2、Windows 11 企业版 LTSC 2024**|**Build 26200.9711**|
+|**Windows 10 企业版 LTSB 2016、Windows Server 2016**|**Build 14393.9615**|
+|**Windows 10 企业版 LTSC 2019、Windows Server 2019**|**Build 17763.9378（2024-6，Arm 版本生命终止）**|
+|**Windows 10 22H2、Windows 10 企业版 LTSC 2021**|**Build 1904x.7811**|
+|**Windows Server 2022**|**Build 20348.5773**|
+|**Windows 11 23H2**|**Build 22631.7654**|
+|**Windows Server 2025**|**Build 26100.33674**|
+|**Windows 11 25H2、Windows 11 企业版 LTSC 2024**|**Build 26200.9725**|
 |**Windows 11 26H2**|**Build 26300.9278（默认不集成，W10UI.ini 中 apply26h2=1 开启）**|
-|**Windows 11 26H1**|**Build 28000.3231（x64 版本不推荐）**|
+|**Windows 11 26H1**|**Build 28000.3237（x64 版本不推荐）**|
 
 ###### 一些设置（位于文件夹根目录 W10UI.ini）：
 |值（预设）|说明|
